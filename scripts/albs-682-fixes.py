@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Script: albs-682-pulp-fixes.py
 # Authors:
 # - Daniil Anfimov <danfimov@cloudlinux.com>

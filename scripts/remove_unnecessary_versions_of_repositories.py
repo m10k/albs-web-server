@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Script: remove_unnecessary_versions_of_repositories.py
 # Author:
 # - Maxim Petukhov <mpetukhov@cloudlinux.com>
